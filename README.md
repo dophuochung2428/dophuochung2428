@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dophuochung2428&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dophuochung2428&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=dophuochung2428&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=dophuochung2428&theme=dark&v=2)](https://git.io/streak-stats)
 
 ---
 
